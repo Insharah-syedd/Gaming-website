@@ -1,14 +1,4 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
@@ -909,5 +899,6 @@ body {
   .footer-top .container { grid-template-columns: 1fr 0.5fr 0.5fr 1fr; }
 
   .footer .logo img { width: 205px; }
+
 
 }
